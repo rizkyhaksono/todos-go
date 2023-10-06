@@ -1,3 +1,3 @@
 # Todos Go
 
-Hacktoberfest 2023
+Contribute to Hacktoberfest 2023
